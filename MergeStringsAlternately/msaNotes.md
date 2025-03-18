@@ -1,4 +1,4 @@
-# Problem Title: [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/)
+#[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/)
 
 ## Problem Description
 
