@@ -1,4 +1,4 @@
-# Problem Title: Greatest Common Divisor of Strings
+# Problem Title: [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/)
 
 ## Problem Description
 
